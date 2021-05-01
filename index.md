@@ -5,10 +5,10 @@
 ● Clasificación según criticidad y frecuencia de uso
 
 ● Minimal system span/● Plan de iteraciones
-https://github.com/AxelJCM/TareaCortaDatos1/projects/4
+[link](https://github.com/AxelJCM/TareaCortaDatos1/projects/4)
 
 ● Diagrama conceptual (donde se muestre a alto nivel la solución planteada)
-![Image](C:/Users/ghost/Desktop/MapaConceptual)
+![Image](MapaConceptual.png)
 ● Diagrama de clases a nivel de implementación (incluyendo tipos de datos)
 
 You can use the [editor on GitHub](https://github.com/AxelJCM/TareaCortaDatos1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
