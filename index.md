@@ -10,11 +10,5 @@
 ● Diagrama conceptual (donde se muestre a alto nivel la solución planteada)
 ![Image](MapaConceptual.png)
 ● Diagrama de clases a nivel de implementación (incluyendo tipos de datos)
+![Image](UML class.png)
 
-You can use the [editor on GitHub](https://github.com/AxelJCM/TareaCortaDatos1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-[Link](url) and ![Image](src)
-```
